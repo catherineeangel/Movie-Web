@@ -4,7 +4,7 @@
 
 <h3>Features</h3>
 <ul>
-  <li><p><img width="400" scr="/img/landing.png"></p></li>
-  <li><img width="400" scr="/img/hover.png"></li>
-  <li><img width="400" scr="/img/search.png"></li>
+  <li><img scr="./img/landing.png" width="400"></li>
+  <li><img scr="./img/hover.png" width="400"></li>
+  <li><img scr="./img/search.png" width="400" ></li>
 </ul>
