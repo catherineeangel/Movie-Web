@@ -3,6 +3,7 @@
 <p>GDSC ITB ID = 256</p>
 
 <h3>Features</h3>
+![Landing Page](./img/landing.png "Landing Page").
 <ul>
   <li>Landing Page
     <img scr="./img/landing.png" width="400">
