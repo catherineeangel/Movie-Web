@@ -5,7 +5,7 @@
 <h3>Features</h3>
 <ul>
   <li>Landing Page
-    <img scr="./img/landing.png" alt="landing" width="400"></img>
+    <img scr="./img/landing.png" alt="landing" width="400" />
   </li>
   <li> Hover Interaction
     <img scr="./img/hover.png" alt="hover" width="400"/>
