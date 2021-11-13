@@ -5,10 +5,10 @@
 <h3>Features</h3>
 <ul>
   <li>Landing Page
-    <img scr="./img/landing.png" alt="landing" width="400" />
+    <img scr="./img/landing.png" alt="landing" width="400"></img>
   </li>
   <li> Hover Interaction
-    <img scr="./img/hover.png" alt="hover" width="400" />
+    <img scr="./img/hover.png" alt="hover" width="400"/>
   </li>
   <li> Search Bar
     <img scr="./img/search.png" alt="search" width="400" />
